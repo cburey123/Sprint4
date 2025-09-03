@@ -1,3 +1,4 @@
+#clone git to local machine
 cd ~/Projects 
 git clone https://github.com/cburey123/Sprint4.git
 cd Sprint4
@@ -11,6 +12,3 @@ pip install --upgrade pip
 
 # Install core packages
 pip install pandas streamlit plotly altair
-
-# Save to requirements.txt
-pip freeze > requirements.txt
