@@ -1,5 +1,5 @@
 cd ~/Projects   # or wherever you want
-git clone https://github.com/<your-username>/<repo>.git
+git clone https://github.com/cburey123/Sprint4.git
 cd <repo>
 
 # Create environment
