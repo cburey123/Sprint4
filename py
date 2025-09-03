@@ -1,6 +1,6 @@
 cd ~/Projects 
 git clone https://github.com/cburey123/Sprint4.git
-cd <Sprint4>
+cd Sprint4
 
 # Create environment
 python3 -m venv .venv
